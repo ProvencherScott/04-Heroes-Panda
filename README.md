@@ -5,7 +5,7 @@ Purchase_data_df was the main data frame I reference throughout the report to cr
 To create a report that gave valuable insight relating to the total amount of players, count for gender demographics or count for age demographics; the duplicate 'SN' had to be removed from the main data frame. 
 
 Other created data frames that provided insightful data are the Purchasing Analysis by Age, 
-Top Spenders, the Most Popular Items purchased on the video game and the Most Profitable Items purchased on the video game. Video game purchases within the game after the initial purchase has become a lucrative business for video game companies. I found the data presented in hte last three data frames to be very useful for this analysis.
+Top Spenders, the Most Popular Items purchased on the video game and the Most Profitable Items purchased on the video game. Purchases during gameplay after the initial purchase of the game has become a lucrative business for video game companies and I found the data presented in the last three data frames to be very useful for this analysis.
 
 
 
