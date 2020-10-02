@@ -22,16 +22,14 @@ index()
 
 .sort_values
 
-round(), sum(), count(), mean(), head()
+sum(), count(), mean(), head()
 
 
+## Conclusion:
 
+1. Of the total 576 Heroes of Pymoli players, 84.03% were male players and 14.06% were female players. This is a large reason there is a higher Total Purchase Value from Male players over Female players.
 
-
-
-## PyPoll
-
-Python script results:
+2. 
 
   * The total number of votes cast
 
