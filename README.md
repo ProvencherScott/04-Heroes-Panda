@@ -22,7 +22,7 @@ index()
 
 .sort_values
 
-round(), sum(), min(), max(), head()
+round(), sum(), count(), mean(), head()
 
 
 
