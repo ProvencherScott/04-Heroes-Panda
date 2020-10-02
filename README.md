@@ -1,7 +1,7 @@
 # Heroes-of-Pymoli-Panda
 
 Created a large report from data relating to video game purchases for the video game, Heroes of Pymoli. Imported the file purchase_data.csv from the Resources folder and stored it as a Pandas data frame, purchase_data_df. 
-Purchase_data_df was the main data frame I reference throughout the report to create other data frames and no_duplicate_names_df was anouther. No_duplicate_names_df was a data frame I created which had each player's purchase data from purchase_data_df, however, all of the duplicate 'SN's were dropped.
+Purchase_data_df was the main data frame I referenced throughout the report to create other data frames, such as no_duplicate_names_df. No_duplicate_names_df was a data frame I created which had each player's purchase data from purchase_data_df, however, all of the duplicate 'SN's were dropped.
 To create a report that gave valuable insight relating to the total amount of players, count for gender demographics or count for age demographics; the duplicate 'SN' had to be removed from the main data frame. 
 
 Other created data frames that provided insightful data are the Purchasing Analysis by Age, 
