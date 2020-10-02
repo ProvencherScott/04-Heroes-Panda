@@ -29,21 +29,8 @@ sum(), count(), mean(), head()
 
 1. Of the total 576 Heroes of Pymoli players, 84.03% were male players and 14.06% were female players. This is a large reason there is a higher Total Purchase Value from Male players over Female players.
 
-2. 
+2. The item name 'Final Critic' was the most popular item and the most profitable item in Heroes of Pymoli. It has a purchase count of 13 and has the highest Average Purchase Price among the other items.
 
-  * The total number of votes cast
-
-  * A complete list of candidates who received votes
-
-  * The percentage of votes each candidate won
-
-  * The total number of votes each candidate won
-
-  * The winner of the election based on popular vote.
-  
-Attempted to create a text file of the results using the With open(output, 'w') function but, I found this to be very difficult. Some of the information converted to a text file 
-but not all of the information. Text files are found in the Analysis folder.
-
+3. According to Age Demographics, age group from 20 to 24 has the highest count and percentage of players at 44.79% which is higher than the 15 to 19 age group at 13.36%. However, according to Purchasing Analysis (Age) the 10 to 14 age group has the highest average total purchase per person.
 
  
-
